@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data — raw Excel files and small processed CSVs are tracked
+# Only the large ONS source download is excluded (7.6 MB)
+data/processed/ons_births_la_msoa_1992_2021.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
