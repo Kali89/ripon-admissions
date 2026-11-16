@@ -20,3 +20,6 @@ data/processed/ons_births_la_msoa_1992_2021.xlsx
 # OS
 .DS_Store
 Thumbs.db
+
+# Derived from NYC catchment boundaries (licence unconfirmed) - never commit
+data/private/
